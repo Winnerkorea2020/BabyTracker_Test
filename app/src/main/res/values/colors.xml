@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorSage">#87BCBF</color>
+    <color name="colorRust">#D97D54</color>
+    <color name="colorDrab">#324755</color>
+    <color name="colorOnyx">#1B1C20</color>
+    <color name="colorSlate">#6E8CA0</color>
+    <color name="colorSnow">#FFFFFF</color>
+    <color name="colorIce">#F0F3F4</color>
+    <color name="colorSteel">#C8D1D3</color>
+    <color name="colorSand">#B9B0A2</color>
+
+
+
+
+
+</resources>
